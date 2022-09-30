@@ -8,8 +8,9 @@ title:
 <img style="float: left;width: 250px; margin: 2cm;" src="/Jiannan_2022.jpg">
 
 ### Working Projects
-1. **Data-driven Dynamic Assortment Personalization in a Clothing Rental Subscription Model** Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. 
-2. **Quality of Matching: Disguising or Revealing?** Joint work with Ashish S. Kabra and Kunpeng Zhang
+<font size="4">1.</font> **<font size="4">Data-driven Dynamic Assortment Personalization in a Clothing Rental Subscription Model</font>** <font size="4">Joint work with Gah-Yi Ban, Wedad J. Elmaghraby, and L. Beril Toktay. </font>
+
+<font size="4">2.</font> **<font size="4">Quality of Matching: Disguising or Revealing?</font>** <font size="4">Joint work with Ashish S. Kabra and Kunpeng Zhang
 </font> 
-3. **Investigating Customer Retention in Subscriptions via Multi-state Survival Model** 
-</font> 
+
+<font size="4">3.</font>  **<font size="4">Investigating Customer Retention in Subscriptions via Multi-state Survival Model</font>** 

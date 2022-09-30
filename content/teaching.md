@@ -8,6 +8,7 @@ title:
 <img style="float: left;width: 250px; margin: 2cm;" src="/Jiannan_2022.jpg">
 
 
-**BUSI 752: Data Mining & Predictive Analytics**
-* Core MBA course, Summer 2022
-* Teaching assistant
+**<font size="5">BUSI 752: Data Mining & Predictive Analytics</font>**
+
+* <font size="4">Core MBA course, Summer 2022</font>
+* <font size="4">Teaching assistant</font>
