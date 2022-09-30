@@ -1,0 +1,73 @@
+baseURL: https://example.com
+languageCode: en-us
+title: 
+theme: "vanilla-bootstrap-hugo-theme"
+googleAnalytics: UA-123456789-1
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+menu:
+  nav:
+  - name: About me
+    pre: user
+    url: /about/
+    weight: 1
+  - name: Research
+    pre: book
+    url: /research/
+    weight: 2
+  - name: Teaching
+    pre: edit
+    url: /teaching/
+    weight: 3
+  - name: CV
+    pre: file-text
+    url: /cv/
+    weight: 4
+
+params:
+  includeBootstrapJs: false
+  showActiveNav: true
+  containerMaxWidth: 1200px
+  dateFormat: Jan 2, 2006
+  homeText: Ph.D. Student in Operations Management
+  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  hideFooter: false
+  katex: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
