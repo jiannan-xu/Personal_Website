@@ -1,6 +1,5 @@
 baseURL: https://example.com
 languageCode: en-us
-title: 
 theme: "vanilla-bootstrap-hugo-theme"
 googleAnalytics: UA-123456789-1
 
@@ -37,7 +36,6 @@ params:
   containerMaxWidth: 1200px
   dateFormat: Jan 2, 2006
   homeText: Ph.D. Student in Operations Management
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
   hideFooter: false
   katex: true
 
