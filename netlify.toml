@@ -2,8 +2,14 @@
 command = 'hugo'
 publish = 'public'
 [build.environment]
-HUGO_VERSION = '0.101.0'
+HUGO_VERSION = "0.83.1"
+HUGO_THEME = "repo"
+HUGO_BASEURL = "https://vanilla-bootstrap-hugo-theme.netlify.app"
 
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "*"
 
 [context]
 [context.branch-deploy]
@@ -15,3 +21,6 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+
+
