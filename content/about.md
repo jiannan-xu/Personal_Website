@@ -16,6 +16,6 @@ title:
 <font size="4">My research interests include marketplace analytics, service operations, and subscription business model. Methodologically, I apply bandit algorithms, conduct causal inference analyses, and combine applied machine learning methods. </font> 
 
 <font size="6"> Recent news: </font> 
-* <font size="4"> Aug. 2022: I’m giving a poster presentation at at YinzOR 2022 held by Carnegie Mellon University!</font> 
+* <font size="4"> Aug. 2022: I’m giving a poster presentation at YinzOR 2022 held by Carnegie Mellon University!</font> 
 
 
